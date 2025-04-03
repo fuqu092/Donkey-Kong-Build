@@ -21,10 +21,10 @@ behaviors:
         strength: 0.1
       gail:
         strength: 0.5
-        demo_path: D:\Unity\Donkey-Kong-Dominator\config\KongDemo_0.demo
+        demo_path: /kaggle/working/Donkey-Kong-Build/config/KongDemo_0.demo
     behavioral_cloning:
       strength: 1.0
-      demo_path: D:\Unity\Donkey-Kong-Dominator\config\KongDemo_0.demo
+      demo_path: /kaggle/working/Donkey-Kong-Build/config/KongDemo_0.demo
     keep_checkpoints: 5
     max_steps: 5000000
     time_horizon: 2048
